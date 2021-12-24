@@ -83,22 +83,22 @@ const Banner = () => {
                 </p>
                 <div className="row">
                     <div className="col-md-6 icon-box" data-aos="fade-up">
-                    <i className="bx bx-receipt"></i>
+                    <i class="fas fa-receipt"></i>
                     <h4><a href="#">Corporis voluptates sit</a></h4>
                     <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
                     </div>
                     <div className="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-                    <i className="bx bx-cube-alt"></i>
+                    <i class="fas fa-cube"></i>
                     <h4><a href="#">Ullamco laboris nisi</a></h4>
                     <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
                     </div>
                     <div className="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-                    <i className="bx bx-images"></i>
+                    <i class="far fa-images"></i>
                     <h4><a href="#">Labore consequatur</a></h4>
                     <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
                     </div>
                     <div className="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-                    <i className="bx bx-shield"></i>
+                    <i class="fas fa-shield-alt"></i>
                     <h4><a href="#">Beatae veritatis</a></h4>
                     <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
                     </div>
